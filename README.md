@@ -1,2 +1,2 @@
 # police-stations
-An exploration of police station positioning.
+What can we learn from data about police stations?
